@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-11-14 10:20:14
+/* Smarty version 3.1.32, created on 2018-11-14 13:41:48
   from 'C:\OpenServer\domains\alfakuhni.local\protected\app\core\admin-template\view\dashboard\widgets.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bebccaeae8ae5_32715882',
+  'unifunc' => 'content_5bebfbeccbed98_51342991',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,6 +20,6 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bebccaeae8ae5_32715882 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bebfbeccbed98_51342991 (Smarty_Internal_Template $_smarty_tpl) {
 }
 }

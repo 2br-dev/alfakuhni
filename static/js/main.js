@@ -26,7 +26,7 @@ $(document).ready(function() {
             cssEase: 'linear'
         });  
     } else {
-        new WOW().init(); // инициализируем WOWJS Только на десктопе
+        new WOW().init(); // инициализируем WOW.JS Только на десктопе
 
         $('.gallery-slider').slick({
             dots: false,

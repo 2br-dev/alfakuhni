@@ -51,7 +51,7 @@ iframe {
     width: -webkit-fit-content;
     width: -moz-fit-content;
     width: fit-content;
-    margin: 70px auto 0;
+    margin: 70px auto 210px;
     padding: 5px 25px 10px;
     line-height: 60px;
     a {
@@ -91,9 +91,16 @@ iframe {
 }
 
 .topic {
-    font-size: 36px;
+    width: -webkit-fit-content;
+    width: -moz-fit-content;
+    width: fit-content;
+    margin: 100px auto 30px;
+    font-size: 48px;
     text-align: center;
-    margin-top: 100px;
+    padding: 3px 0 7px;
+    font-weight: 300;
+    border-top: 3px solid @orange;
+    border-bottom: 3px solid @orange;
 }
 
 // MAIN STYLES
@@ -340,18 +347,22 @@ iframe {
 
     :nth-child(4) {
         background: url(../img/furnitura.jpg) no-repeat center/cover;
-        left: 0;
-        -webkit-transform: scale(-1, 1);
+        img {
+            left: 0;
+            -webkit-transform: scale(-1, 1);
             -ms-transform: scale(-1, 1);
                 transform: scale(-1, 1);
+        }
     }
 
     :nth-child(6) {
         background: url(../img/osveshenie.jpg) no-repeat center/cover;
-        left: 0;
-        -webkit-transform: scale(-1, 1);
+        img {
+            left: 0;
+            -webkit-transform: scale(-1, 1);
             -ms-transform: scale(-1, 1);
                 transform: scale(-1, 1);
+        }
     }
 
     :nth-child(7) {
@@ -444,6 +455,7 @@ iframe {
 }
 
 .furniture {
+    margin-top: 12vh;
     width: 100%;
     height: 350px;
     background: url(../img/yashik-fon.png) no-repeat top/cover;

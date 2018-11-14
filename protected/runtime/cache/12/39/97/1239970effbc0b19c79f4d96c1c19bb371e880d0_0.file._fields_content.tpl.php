@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-11-14 10:36:41
+/* Smarty version 3.1.32, created on 2018-11-14 13:42:03
   from 'C:\OpenServer\domains\alfakuhni.local\protected\app\core\admin-template\view\structure\_fields_content.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bebd0893fab37_78896574',
+  'unifunc' => 'content_5bebfbfb08c0c6_01318522',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -22,7 +22,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:system/editor.tpl' => 1,
   ),
 ),false)) {
-function content_5bebd0893fab37_78896574 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bebfbfb08c0c6_01318522 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
  type="text/javascript">var modules_list = <?php echo json_encode($_smarty_tpl->tpl_vars['modules_list']->value);?>
 ;<?php echo '</script'; ?>
