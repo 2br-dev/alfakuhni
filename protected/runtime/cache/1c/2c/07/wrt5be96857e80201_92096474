@@ -1,0 +1,25 @@
+<?php
+/* Smarty version 3.1.32, created on 2018-11-12 14:47:35
+  from 'C:\OpenServer\domains\alfakuhni.local\protected\themes\base\smarty\components\footer.tpl' */
+
+/* @var Smarty_Internal_Template $_smarty_tpl */
+if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
+  'version' => '3.1.32',
+  'unifunc' => 'content_5be96857e7f7b0_14068223',
+  'has_nocache_code' => false,
+  'file_dependency' => 
+  array (
+    '1c2c078e3b7e6743558b73fe8f9523658fccab37' => 
+    array (
+      0 => 'C:\\OpenServer\\domains\\alfakuhni.local\\protected\\themes\\base\\smarty\\components\\footer.tpl',
+      1 => 1541673394,
+      2 => 'file',
+    ),
+  ),
+  'includes' => 
+  array (
+  ),
+),false)) {
+function content_5be96857e7f7b0_14068223 (Smarty_Internal_Template $_smarty_tpl) {
+?><section class='navigation navigation-footer'><div class="navigation-container container"><a href="/"><img style="transform: translateY(15px); margin-top: -10px" class="navigation-logo" src="/img/logo.jpg" alt="Альфа Кухни"></a><p class="navigation-text">Комплексные решения по организации кухонного пространства</p><div class="navigation-social"><a href="https://www.youtube.com/channel/UC6niqmKGGTzyq9fTOCAgiKQ"><span class="navigation-social-youtube"></span></a><a href="https://www.instagram.com/kuhnialfa/"><span class="navigation-social-instagram"></span></a></div><div class="navigation-contacts"><p>+7-918-074-19-74</p><p>г. Краснодар, ул. Дачная, 268</p></div></div></section><?php }
+}

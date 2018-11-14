@@ -1,0 +1,64 @@
+@media screen and (max-width: 1279px) {
+  .result {
+    height: 360px;
+  }
+  .result-description {
+    height: 180px;
+    font-size: 26px !important;
+    padding: 40px 20px !important;
+  }
+  .result-img {
+    height: 180px;
+  }
+  .result-img img {
+    height: 180px;
+  }
+  .social {
+    height: 350px;
+    width: 88%;
+  }
+  iframe {
+    width: -webkit-fill-available;
+    height: 280px;
+  }
+  .social-instagram iframe {
+    width: 100% !important;
+    height: -webkit-fill-available;
+  }
+  .social-youtube,
+  .social-instagram {
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+    margin: 0 15px;
+  }
+  .banner {
+    margin-left: 0;
+  }
+  .banner .container .link-btn {
+    right: 0;
+  }
+  .advantages {
+    width: 100%;
+  }
+  .bordered {
+    padding: 20px 40px 20px 100px;
+  }
+  .hint img {
+    margin-left: -20%;
+    height: 350px;
+    z-index: 2;
+  }
+  .credit .bordered {
+    margin-left: 5%;
+  }
+  .projects img {
+    width: 450px;
+  }
+  .projects-text {
+    width: 450px;
+  }
+  .realised-projects-photos-item img {
+    width: 300px;
+    height: 260px;
+  }
+}
