@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-11-14 10:22:42
+/* Smarty version 3.1.32, created on 2018-11-14 16:42:49
   from 'C:\OpenServer\domains\alfakuhni.local\protected\app\core\admin-template\view\meta\module\edit.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bebcd421c5a42_95042910',
+  'unifunc' => 'content_5bec26597f2bd8_48379178',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -24,7 +24,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:system/buttons.tpl' => 1,
   ),
 ),false)) {
-function content_5bebcd421c5a42_95042910 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bec26597f2bd8_48379178 (Smarty_Internal_Template $_smarty_tpl) {
 if (isset($_GET['msg']) && $_GET['msg'] == "apply") {?><div class="apply">Данные были успешно сохранены!</div><?php }?><form action="<?php echo $_smarty_tpl->tpl_vars['request_path']->value;?>
 " method="post" enctype="multipart/form-data" name="meta_form" class="dropzone"><input type="hidden" name="form_action" value="edit"><input type="hidden" name="back_to_page" value="<?php if (isset($_GET['back_to_page']) && $_GET['back_to_page'] !== '') {
 echo $_GET['back_to_page'];

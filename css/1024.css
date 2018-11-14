@@ -57,6 +57,9 @@
   .projects-text {
     width: 450px;
   }
+  .realised-projects-price {
+    margin-top: 0;
+  }
   .realised-projects-photos-item img {
     width: 300px;
     height: 260px;

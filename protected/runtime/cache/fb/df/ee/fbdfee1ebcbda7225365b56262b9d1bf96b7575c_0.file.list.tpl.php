@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-11-14 11:35:37
+/* Smarty version 3.1.32, created on 2018-11-14 16:57:48
   from 'C:\OpenServer\domains\alfakuhni.local\protected\modules\projects\tpl\list.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bebde59447e81_14417209',
+  'unifunc' => 'content_5bec29dcb5d132_00873962',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'fbdfee1ebcbda7225365b56262b9d1bf96b7575c' => 
     array (
       0 => 'C:\\OpenServer\\domains\\alfakuhni.local\\protected\\modules\\projects\\tpl\\list.tpl',
-      1 => 1541767970,
+      1 => 1542185426,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bebde59447e81_14417209 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bec29dcb5d132_00873962 (Smarty_Internal_Template $_smarty_tpl) {
 if ($_smarty_tpl->tpl_vars['projects']->value) {?>
 <section class="realised">
     <h1 class="topic">

@@ -45,6 +45,7 @@ iframe {
         -webkit-box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
                 box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
     }
+
 }
 .gallery-btn {
     height: 60px;
@@ -73,6 +74,9 @@ iframe {
     &:hover {
         text-decoration: none;
     }
+    &:active, &:visited {
+        color: @orange;
+    }
 }
 
 .bordered {
@@ -94,7 +98,7 @@ iframe {
     width: -webkit-fit-content;
     width: -moz-fit-content;
     width: fit-content;
-    margin: 100px auto 30px;
+    margin: 160px auto 70px;
     font-size: 48px;
     text-align: center;
     padding: 3px 0 7px;
@@ -841,6 +845,11 @@ iframe {
         }
     }
 }
+.realised-projects {
+    .topic {
+        margin-top: 145px;
+    }
+}
 .realised-projects .bordered {
 	width: 1000px;
     margin: 0 auto 30px;
@@ -861,4 +870,16 @@ iframe {
                 margin-bottom: 5px;
         	}
         }
+}
+
+#credit {
+    margin-top: 50px;
+}
+@media all and (min-width: 1920px) {
+    .banner {
+        height: 620px;
+    }
+    .gifts {
+        height: 1150px;
+    }
 }

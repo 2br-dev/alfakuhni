@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-11-14 14:10:47
+/* Smarty version 3.1.32, created on 2018-11-14 16:43:29
   from 'C:\OpenServer\domains\alfakuhni.local\protected\app\core\admin-template\system\include.code.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bec02b7e49fc5_30494875',
+  'unifunc' => 'content_5bec2681da9654_63792035',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bec02b7e49fc5_30494875 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bec2681da9654_63792035 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div id="clipsmodal" style="display: none;">
     <section>
         <ul class="redactor_clips_box">

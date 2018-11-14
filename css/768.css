@@ -162,10 +162,13 @@
     margin-top: 100px;
   }
   .realised-projects .container .link-btn {
-    top: 155px;
+    top: 70px;
   }
   .realised-projects .bordered {
     width: 96%;
     margin: 0 2%;
+  }
+  .gallery-btn {
+    margin-bottom: 0;
   }
 }

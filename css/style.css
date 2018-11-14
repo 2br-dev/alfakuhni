@@ -62,6 +62,10 @@ iframe {
 .link:hover {
   text-decoration: none;
 }
+.link:active,
+.link:visited {
+  color: #f9832b;
+}
 .bordered {
   -webkit-box-shadow: 0 0 0 6px inset #3f1b01;
   box-shadow: 0 0 0 6px inset #3f1b01;
@@ -80,7 +84,7 @@ iframe {
   width: -webkit-fit-content;
   width: -moz-fit-content;
   width: fit-content;
-  margin: 100px auto 30px;
+  margin: 160px auto 70px;
   font-size: 48px;
   text-align: center;
   padding: 3px 0 7px;
@@ -759,6 +763,9 @@ iframe {
   height: 350px;
   margin: 0 auto;
 }
+.realised-projects .topic {
+  margin-top: 145px;
+}
 .realised-projects .bordered {
   width: 1000px;
   margin: 0 auto 30px;
@@ -778,4 +785,15 @@ iframe {
 .realised-projects .bordered-tech p {
   text-align: left !important;
   margin-bottom: 5px;
+}
+#credit {
+  margin-top: 50px;
+}
+@media all and (min-width: 1920px) {
+  .banner {
+    height: 620px;
+  }
+  .gifts {
+    height: 1150px;
+  }
 }
