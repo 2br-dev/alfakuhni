@@ -67,8 +67,8 @@ iframe {
   color: #f9832b;
 }
 .bordered {
-  -webkit-box-shadow: 0 0 0 6px inset #3f1b01;
-  box-shadow: 0 0 0 6px inset #3f1b01;
+  -webkit-box-shadow: 0 0 1px 6px inset #3f1b01;
+  box-shadow: 0 0 1px 6px inset #3f1b01;
   padding: 50px 100px;
   display: -webkit-box;
   display: -ms-flexbox;
