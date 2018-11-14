@@ -789,11 +789,15 @@ iframe {
 #credit {
   margin-top: 50px;
 }
-@media all and (min-width: 1920px) {
+@media all and (min-width: 1921px) {
   .banner {
     height: 620px;
   }
   .gifts {
     height: 1150px;
+  }
+  .banner .container .link-btn {
+    bottom: -140px;
+    right: -20px;
   }
 }

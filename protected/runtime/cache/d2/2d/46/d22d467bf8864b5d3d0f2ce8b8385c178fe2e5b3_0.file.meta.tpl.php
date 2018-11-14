@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-11-14 17:04:36
+/* Smarty version 3.1.32, created on 2018-11-14 17:22:25
   from 'C:\OpenServer\domains\alfakuhni.local\protected\themes\base\smarty\components\meta.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bec2b74e74880_01390985',
+  'unifunc' => 'content_5bec2fa1cc21f4_08863696',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bec2b74e74880_01390985 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bec2fa1cc21f4_08863696 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!DOCTYPE html>
 <html lang="<?php echo $_smarty_tpl->tpl_vars['_page']->value['lang'];?>
 "><head><?php if ($_smarty_tpl->tpl_vars['uri']->value[0] == '') {?><title>Кухни Альфа | Главная</title><?php } else { ?><title>Реализованные Проекты</title><?php }?><meta charset="utf-8"><meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"><meta content="<?php echo $_smarty_tpl->tpl_vars['_page']->value['robots'];?>
