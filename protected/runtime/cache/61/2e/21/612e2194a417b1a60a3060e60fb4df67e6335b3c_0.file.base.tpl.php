@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-11-14 21:14:47
+/* Smarty version 3.1.32, created on 2018-11-15 13:18:23
   from '/home/b/burdilo/kuhnialfa/public_html/protected/app/core/admin-template/base.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bec6617161c02_62817550',
+  'unifunc' => 'content_5bed47ef3ceef4_48491548',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:system/include.code.tpl' => 1,
   ),
 ),false)) {
-function content_5bec6617161c02_62817550 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bed47ef3ceef4_48491548 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'/home/b/burdilo/kuhnialfa/public_html/protected/app/libs/smarty.plugins/modifier.capi.php','function'=>'smarty_modifier_capi',),));
 ?><!DOCTYPE html>
 <!-- (c) lnk. celebro | celebro.ru -->

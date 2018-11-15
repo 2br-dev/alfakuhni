@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-11-14 21:13:53
+/* Smarty version 3.1.32, created on 2018-11-15 13:17:53
   from '/home/b/burdilo/kuhnialfa/public_html/protected/app/core/admin-template/system/group.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bec65e12b5336_22531472',
+  'unifunc' => 'content_5bed47d1db38b0_45957259',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bec65e12b5336_22531472 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bed47d1db38b0_45957259 (Smarty_Internal_Template $_smarty_tpl) {
 if (!$_smarty_tpl->tpl_vars['type']->value) {
 $_smarty_tpl->_assignInScope('type', 'radio');
 }?><div class="group"><?php
