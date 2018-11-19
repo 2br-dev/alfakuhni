@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-11-19 10:43:20
+/* Smarty version 3.1.32, created on 2018-11-19 13:03:23
   from '/home/b/burdilo/kuhnialfa/public_html/protected/app/core/admin-template/view/meta/module/filter.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bf26998069362_30113906',
+  'unifunc' => 'content_5bf28a6bbe8eb0_98979681',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bf26998069362_30113906 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bf28a6bbe8eb0_98979681 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_assignInScope('pagerCookie', "module_limit_".((string)$_smarty_tpl->tpl_vars['module_id']->value));?><div class="button-container clearfix"><div class="button-container--right"><?php if ($_smarty_tpl->tpl_vars['meta_filter']->value) {
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['meta_filter']->value, 'filter', false, 'name');
 if ($_from !== null) {
