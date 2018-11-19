@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-11-15 13:23:37
+/* Smarty version 3.1.32, created on 2018-11-19 11:20:55
   from '/home/b/burdilo/kuhnialfa/public_html/protected/themes/base/smarty/core/404.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bed49294ffdd3_72831503',
+  'unifunc' => 'content_5bf27267d53ee1_05132423',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:../system/sitemap.tpl' => 1,
   ),
 ),false)) {
-function content_5bed49294ffdd3_72831503 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bf27267d53ee1_05132423 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'/home/b/burdilo/kuhnialfa/public_html/protected/app/libs/smarty.plugins/function.compress.php','function'=>'smarty_function_compress',),));
 ?><!DOCTYPE html>
 <!-- (c) lnk. celebro | http://www.celebro.ru/ -->

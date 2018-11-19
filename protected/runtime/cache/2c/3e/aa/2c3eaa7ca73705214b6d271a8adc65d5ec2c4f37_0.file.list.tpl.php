@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-11-15 12:20:45
+/* Smarty version 3.1.32, created on 2018-11-19 10:52:15
   from '/home/b/burdilo/kuhnialfa/public_html/protected/modules/projects/tpl/list.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bed3a6d1040f9_66140033',
+  'unifunc' => 'content_5bf26baf6a6047_93482305',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bed3a6d1040f9_66140033 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bf26baf6a6047_93482305 (Smarty_Internal_Template $_smarty_tpl) {
 if ($_smarty_tpl->tpl_vars['projects']->value) {?>
 <section class="realised">
     <h1 class="topic">

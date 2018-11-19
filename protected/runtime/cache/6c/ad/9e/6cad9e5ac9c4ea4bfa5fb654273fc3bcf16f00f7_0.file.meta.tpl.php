@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-11-15 13:26:42
+/* Smarty version 3.1.32, created on 2018-11-19 11:21:53
   from '/home/b/burdilo/kuhnialfa/public_html/protected/themes/base/smarty/components/meta.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bed49e2453ac6_76491535',
+  'unifunc' => 'content_5bf272a151b996_14552272',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bed49e2453ac6_76491535 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bf272a151b996_14552272 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!DOCTYPE html>
 <html lang="<?php echo $_smarty_tpl->tpl_vars['_page']->value['lang'];?>
 "><head><?php if ($_smarty_tpl->tpl_vars['uri']->value[0] == '') {?><title>Кухни Альфа | Главная</title><?php } else { ?><title>Реализованные Проекты</title><?php }?><meta charset="utf-8"><meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"><meta content="<?php echo $_smarty_tpl->tpl_vars['_page']->value['robots'];?>

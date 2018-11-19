@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-11-15 13:18:21
+/* Smarty version 3.1.32, created on 2018-11-19 10:43:20
   from '/home/b/burdilo/kuhnialfa/public_html/protected/app/core/admin-template/view/meta/module/index.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bed47eda728b5_29892212',
+  'unifunc' => 'content_5bf269980464a7_84491448',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:system/pager.tpl' => 1,
   ),
 ),false)) {
-function content_5bed47eda728b5_29892212 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bf269980464a7_84491448 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'/home/b/burdilo/kuhnialfa/public_html/protected/app/vendors/smarty/smarty/libs/plugins/function.cycle.php','function'=>'smarty_function_cycle',),1=>array('file'=>'/home/b/burdilo/kuhnialfa/public_html/protected/app/libs/smarty.plugins/modifier.add2query.php','function'=>'smarty_modifier_add2query',),));
 if ((isset($_smarty_tpl->tpl_vars['modules']->value) && !empty($_smarty_tpl->tpl_vars['modules']->value)) || (isset($_smarty_tpl->tpl_vars['groups']->value) && !empty($_smarty_tpl->tpl_vars['groups']->value))) {?><div class="button-container clearfix"><?php if (isset($_smarty_tpl->tpl_vars['groups']->value) && !empty($_smarty_tpl->tpl_vars['groups']->value)) {?><div class="mb40"></div><?php
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['groups']->value, 'item', false, NULL, 'item', array (

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-11-14 22:52:57
+/* Smarty version 3.1.32, created on 2018-11-19 11:01:34
   from '/home/b/burdilo/kuhnialfa/public_html/protected/app/core/admin-template/view/structure/_fields_content.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bec7d19b8bbc0_57090792',
+  'unifunc' => 'content_5bf26dde8324c2_52015012',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -22,7 +22,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:system/editor.tpl' => 1,
   ),
 ),false)) {
-function content_5bec7d19b8bbc0_57090792 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bf26dde8324c2_52015012 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
  type="text/javascript">var modules_list = <?php echo json_encode($_smarty_tpl->tpl_vars['modules_list']->value);?>
 ;<?php echo '</script'; ?>

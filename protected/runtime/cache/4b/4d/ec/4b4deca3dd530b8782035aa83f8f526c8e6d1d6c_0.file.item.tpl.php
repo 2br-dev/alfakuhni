@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-11-15 12:19:38
+/* Smarty version 3.1.32, created on 2018-11-18 16:00:01
   from '/home/b/burdilo/kuhnialfa/public_html/protected/modules/projects/tpl/item.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bed3a2a329f28_32481739',
+  'unifunc' => 'content_5bf162510d5423_57889618',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bed3a2a329f28_32481739 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5bf162510d5423_57889618 (Smarty_Internal_Template $_smarty_tpl) {
 ?><section class="realised-projects"><div class="container"><a href="/realizovannye-proekty" class="link-btn">← к проектам </a><h1 class="topic"><?php echo $_smarty_tpl->tpl_vars['projects']->value['title'];?>
 </h1><div class="realised-projects-price"><div><p>Цена кухни со всеми механизмами составила:</p><p><?php echo $_smarty_tpl->tpl_vars['projects']->value['price'];?>
 </p></div><?php if ($_smarty_tpl->tpl_vars['projects']->value['tech']) {?><div><p>Стоимость техники:</p><p><?php echo $_smarty_tpl->tpl_vars['projects']->value['tech'];?>

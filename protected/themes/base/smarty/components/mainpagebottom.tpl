@@ -96,7 +96,7 @@
     <div class="gifts-item wow rotateInDownLeft">
         <div class="gifts-item-box">
             <p>При покупке кухни на сумму</p>
-            <p class="gifts-item-box-price">от 100 до 200 тысяч рублей</p>
+            <p class="gifts-item-box-price">от 100 до 300 тысяч рублей</p>
             <p>подарки на выбор:</p>
         </div>
         <div class="gifts-item-text">
@@ -110,7 +110,7 @@
     <div class="gifts-item wow rotateInDownRight">
         <div class="gifts-item-box">
             <p>При покупке кухни на сумму</p>
-            <p class="gifts-item-box-price">от 200 до 300 тысяч рублей</p>
+            <p class="gifts-item-box-price">от 300 тысяч рублей</p>
             <p>подарки на выбор:</p>
         </div>
         <div class="gifts-item-text">
