@@ -33,6 +33,7 @@
 	<!-- CSS -->
 	<link type="text/css" rel="stylesheet" href="/css/normalize.css" >
 	<link type="text/css" rel="stylesheet" href="/css/style.css" >
+	<link type="text/css" rel="stylesheet" href="/css/painter.css" >
 	<link type="text/css" rel="stylesheet" href="/css/1280.css" >
 	<link type="text/css" rel="stylesheet" href="/css/1024.css" >
 	<link type="text/css" rel="stylesheet" href="/css/768.css" >
