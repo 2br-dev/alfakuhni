@@ -120,7 +120,15 @@
                             <li class="subswatch-3 centered" data-tooltip="фиолетовый бархат"></li>
                             <li class="subswatch-4" data-tooltip="индиго"></li>
                             <li class="subswatch-5" data-tooltip="фиолетовый алмаз "></li>
-
+                        </ul>
+                    </div>
+                    <div class="swatch-037">
+                        <ul>
+                            <li class="subswatch-1 serh2" data-tooltip="мезозой" style="background-image: url('/patterns/dino20.jpg'); background-position: 50% 50%; background-size: 50px; background-repeat: no-repeat;"></li>
+                            <li class="subswatch-2 serh3" data-tooltip="котики" style="background-image: url('/patterns/kot_fon152.jpg'); background-position: 50% 50%; background-size: 50px; background-repeat: no-repeat;"></li>
+                            <li class="subswatch-3 centered serh1" data-tooltip="фанера" style="background-image: url('/patterns/strukt67.jpg'); background-position: 50% 50%; background-size: 50px; background-repeat: no-repeat;"></li>
+                            <li class="subswatch-4 serh4" data-tooltip="дуб" style="background-image: url('/patterns/strukt51.jpg'); background-position: 50% 50%; background-size: 50px; background-repeat: no-repeat;"></li>
+                            <li class="subswatch-5 serh5" data-tooltip="чёрное дерево" style="background-image: url('/patterns/1.jpg'); background-position: 50% 50%; background-size: 50px; background-repeat: no-repeat;"></li>                  
                         </ul>
                     </div>
                 </div>

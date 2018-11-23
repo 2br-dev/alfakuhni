@@ -38,11 +38,11 @@ $(document).ready(function() {
             cssEase: 'linear'
         });  
     }
-  
 
 });
 
 $('li[class^="subswatch-"],li[class*=" subswatch-"]').click(function() {
+    $(".card").css('background-image', 'unset');
 	var selectedSwatch = $(this);
 	var selectedSwatchName = selectedSwatch.data('tooltip');
 	var selectedSwatchNumber = selectedSwatch.attr('class').match(/\d+/)[0];
@@ -75,5 +75,30 @@ $('li[class^="subswatch-"],li[class*=" subswatch-"]').click(function() {
 		$('.ripple').removeClass('scaling');
 	}, 900);
 })
+$(".serh1").click(function() {
+    $(".card").css({
+        background: `url('/patterns/strukt67.jpg')`
+    })
+})
+$(".serh2").click(function() {
+    $(".card").css({
+        background: `url('/patterns/dino20.jpg')`
+    })
+})
+$(".serh3").click(function() {
+    $(".card").css({
+        background: `url('/patterns/kot_fon152.jpg')`
+    })
+})
+$(".serh4").click(function() {
+    $(".card").css({
+        background: `url('/patterns/strukt51.jpg')`
+    })
+})
+$(".serh5").click(function() {
+    console.log('123');
+    $(".card").css('background-image', 'url("/patterns/1.jpg")');
+})
+
 
 

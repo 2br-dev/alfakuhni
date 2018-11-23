@@ -26,7 +26,6 @@
 	{if isset($pagination.next) && $pagination.next !== ''}
 		<link rel="next" href="?page={$pagination.next}">
 	{/if}
-	<link href="https://fonts.googleapis.com/css?family=Oswald:300,500" rel="stylesheet">
 	<link rel="home" href="/">
 	<link rel="icon" type="image/x-icon" href="/img/icons/favicon.png">
 

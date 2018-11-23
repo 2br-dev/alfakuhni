@@ -128,7 +128,7 @@
 // challenge styles
 .card {
 	width: 72vmin;
-	height: 64vmin;
+	height: auto;
 	margin: 0 auto;
 	position: relative;
 	display: flex;
@@ -159,8 +159,7 @@
 			position: absolute;
 			z-index: 999;
 			color: #555;
-			width: 33%;
-			bottom: 4%;
+			top: -25px;
 			text-align: center;
 			margin: auto;
 			left: 0;
@@ -302,13 +301,22 @@
 		@bg: @sVi;
 		.subswatches2;
 	}
+	.swatch-037 {
+		@bg: @sVi;
+		.subswatches2;
+	}
 	.main-swatches {
 		display: flex;
 		width: auto;
 		margin: 0 auto;
 	}
 }
-
+.color-picker .swatch-037 .subswatch-2.active {
+	background-image: url('/patterns/kot_fon152.jpg') !important;
+} 
+.color-picker .swatch-037 .subswatch-1.active {
+	background-image: url('/patterns/dino20.jpg') !important;
+}
 .ripple {
 	position: absolute;
 	left: -300em;
@@ -320,6 +328,15 @@
 	&.scaling {
 		animation: scale 1.4s;
 	}
+}
+.card {
+	background: transparent;
+}
+.card {
+	-webkit-transition: all 1s ease-out;
+	-moz-transition: all 1s ease-out;	
+	-o-transition: all 1s ease-out;	
+	transition: all 1s ease-out;	
 }
 
 @keyframes scale {
