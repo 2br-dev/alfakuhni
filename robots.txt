@@ -1,4 +1,19 @@
 User-agent: *
-Disallow: /
+Disallow: /*?
+Disallow: /fonts/
+Disallow: /img/
+Disallow: /*?utm_source
+Disallow: /patterns/
+Disallow: /cp
+Crawl-delay: 3
+Sitemap: http://kuhnialfa.ru/sitemap.xml
 
-
+User-agent: Yandex
+Disallow: /*?
+Disallow: /fonts/
+Disallow: /img/
+Disallow: /patterns/
+Disallow: /*?utm_source
+Disallow: /cp
+Host: http://kuhnialfa.ru
+Sitemap: http://kuhnialfa.ru/sitemap.xml

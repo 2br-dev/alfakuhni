@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-11-15 13:18:11
+/* Smarty version 3.1.32, created on 2018-12-03 00:11:18
   from '/home/b/burdilo/kuhnialfa/public_html/protected/app/core/admin-template/view/lists/index/index.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bed47e38db3b0_83518102',
+  'unifunc' => 'content_5c044a762eb0d5_27086921',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bed47e38db3b0_83518102 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5c044a762eb0d5_27086921 (Smarty_Internal_Template $_smarty_tpl) {
 ?><table class="table" id="meta_data"><col><col width="180"><col width="200"><col width="65"><thead><tr><th colspan="4"><?php echo t('titles.lists');?>
 </th></tr></thead><tbody><tr><td class="h"><?php echo t('titles.list.name');?>
 </td><td class="h">Системное имя (bind)</td><td class="h">Кол-во элементов в списке</td><td class="h"></td></tr><?php

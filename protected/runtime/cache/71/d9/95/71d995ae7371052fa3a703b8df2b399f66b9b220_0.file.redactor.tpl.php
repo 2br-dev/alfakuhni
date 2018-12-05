@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-11-14 16:39:32
+/* Smarty version 3.1.32, created on 2018-12-03 00:08:37
   from '/home/b/burdilo/kuhnialfa/public_html/protected/app/core/admin-template/system/redactor.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bec259498d079_76414047',
+  'unifunc' => 'content_5c0449d5de5a67_47473971',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bec259498d079_76414047 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5c0449d5de5a67_47473971 (Smarty_Internal_Template $_smarty_tpl) {
 if (!isset($_smarty_tpl->tpl_vars['redactor_type']->value)) {?>
     <?php $_smarty_tpl->_assignInScope('redactor_type', "imperavi");
 }?>

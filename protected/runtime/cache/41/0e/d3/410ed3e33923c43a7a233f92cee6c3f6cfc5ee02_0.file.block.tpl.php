@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-11-22 17:07:44
+/* Smarty version 3.1.32, created on 2018-12-05 13:51:56
   from '/home/b/burdilo/kuhnialfa/public_html/protected/modules/gallery/tpl/block.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bf6b830eee270_06808508',
+  'unifunc' => 'content_5c07adccb7c739_38271026',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bf6b830eee270_06808508 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5c07adccb7c739_38271026 (Smarty_Internal_Template $_smarty_tpl) {
 if ($_smarty_tpl->tpl_vars['gallery']->value) {?><h2 class="topic">Галерея</h2><div class="gallery-slider"><?php
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['gallery']->value, 'sort');
 if ($_from !== null) {
