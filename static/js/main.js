@@ -15,11 +15,19 @@ $(document).ready(function() {
     });
 
     // slick
+    if ($(window).width() <= 768) {
+        $('.projects-slider').slick({
+            dots: true,
+            infinite: true,
+            speed: 1200,
+            arrows: false,
+        });    
+    }
     if ($(window).width() < 768) {
       $('.gallery-slider').slick({
             dots: true,
             infinite: true,
-            speed: 800,
+            speed: 1200,
             adaptiveHeight: true,
             arrows: false,
             fade: true,
@@ -27,6 +35,17 @@ $(document).ready(function() {
         });  
     } else {
         new WOW().init(); // инициализируем WOW.JS Только на десктопе
+        $('.projects-slider').slick({
+            slidesToShow: 2,
+            slidesToScroll: 1,
+            autoplay: true,
+            autoplaySpeed: 3000,
+            dots: false,
+            infinite: true,
+            speed: 900,
+            adaptiveHeight: true,
+            arrows: true,
+        });  
 
         $('.gallery-slider').slick({
             dots: false,
@@ -96,7 +115,6 @@ $(".serh4").click(function() {
     })
 })
 $(".serh5").click(function() {
-    console.log('123');
     $(".card").css('background-image', 'url("/patterns/1.jpg")');
 })
 

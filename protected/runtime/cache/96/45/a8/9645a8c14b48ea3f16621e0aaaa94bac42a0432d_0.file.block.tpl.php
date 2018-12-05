@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-11-23 14:40:24
+/* Smarty version 3.1.32, created on 2018-12-05 15:58:02
   from 'C:\OpenServer\domains\alfakuhni.local\protected\modules\gallery\tpl\block.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bf7e7285612d6_62977140',
+  'unifunc' => 'content_5c07cb5a608a31_30534147',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bf7e7285612d6_62977140 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5c07cb5a608a31_30534147 (Smarty_Internal_Template $_smarty_tpl) {
 if ($_smarty_tpl->tpl_vars['gallery']->value) {?><h2 class="topic">Галерея</h2><div class="gallery-slider"><?php
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['gallery']->value, 'sort');
 if ($_from !== null) {

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-11-14 10:20:10
+/* Smarty version 3.1.32, created on 2018-12-05 14:27:42
   from 'C:\OpenServer\domains\alfakuhni.local\protected\app\core\admin-template\auth.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bebccaa002c71_89903210',
+  'unifunc' => 'content_5c07b62e84bd43_91127590',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:system/controll.tpl' => 1,
   ),
 ),false)) {
-function content_5bebccaa002c71_89903210 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5c07b62e84bd43_91127590 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'C:\\OpenServer\\domains\\alfakuhni.local\\protected\\app\\libs\\smarty.plugins\\modifier.capi.php','function'=>'smarty_modifier_capi',),));
 ?><!DOCTYPE html>
 <!-- (c) lnk. celebro | celebro.ru -->
