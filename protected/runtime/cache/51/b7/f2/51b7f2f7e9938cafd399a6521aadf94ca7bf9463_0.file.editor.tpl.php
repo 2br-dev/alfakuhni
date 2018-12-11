@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-11-19 11:01:34
+/* Smarty version 3.1.32, created on 2018-12-11 15:23:59
   from '/home/b/burdilo/kuhnialfa/public_html/protected/app/core/admin-template/system/editor.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bf26dde840092_43988591',
+  'unifunc' => 'content_5c0fac5f735912_70121559',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bf26dde840092_43988591 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5c0fac5f735912_70121559 (Smarty_Internal_Template $_smarty_tpl) {
 if (!isset($_smarty_tpl->tpl_vars['editor_type']->value)) {
 $_smarty_tpl->_assignInScope('editor_type', "codemirror");
 }

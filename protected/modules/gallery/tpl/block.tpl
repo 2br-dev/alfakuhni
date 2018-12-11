@@ -55,7 +55,7 @@
     {/foreach}
 </div>
 <div class="container">
-    <div class="link-btn gallery-btn"><a href="/realizovannye-proekty"> Посмотреть реализованные проекты </a></div>
+    <div class="link-btn gallery-btn wow zoomInUp"><a href="/realizovannye-proekty"> Посмотреть реализованные проекты </a></div>
 </div>
 {/if}
 {/strip}

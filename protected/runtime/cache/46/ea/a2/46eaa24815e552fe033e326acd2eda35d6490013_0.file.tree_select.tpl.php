@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-11-23 15:46:56
+/* Smarty version 3.1.32, created on 2018-12-11 15:23:59
   from '/home/b/burdilo/kuhnialfa/public_html/protected/app/core/admin-template/view/structure/tree_select.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5bf7f6c0369459_92304855',
+  'unifunc' => 'content_5c0fac5f6d07c9_32879037',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bf7f6c0369459_92304855 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5c0fac5f6d07c9_32879037 (Smarty_Internal_Template $_smarty_tpl) {
 $_smarty_tpl->_checkPlugins(array(0=>array('file'=>'/home/b/burdilo/kuhnialfa/public_html/protected/app/vendors/smarty/smarty/libs/plugins/function.math.php','function'=>'smarty_function_math',),));
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['a_tree']->value, 'item');
 if ($_from !== null) {

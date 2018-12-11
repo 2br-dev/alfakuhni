@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-12-03 00:08:37
+/* Smarty version 3.1.32, created on 2018-12-10 12:03:44
   from '/home/b/burdilo/kuhnialfa/public_html/protected/app/core/admin-template/fields/image.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5c0449d5dd1f10_50124213',
+  'unifunc' => 'content_5c0e2bf0475f31_21576989',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5c0449d5dd1f10_50124213 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5c0e2bf0475f31_21576989 (Smarty_Internal_Template $_smarty_tpl) {
 ?><!-- Fine Uploader Thumbnails template w/ customization====================================================================== --><?php echo '<script'; ?>
 >initialFiles['<?php echo $_smarty_tpl->tpl_vars['value']->value;?>
 ']=<?php if (isset($_smarty_tpl->tpl_vars['json']->value)) {

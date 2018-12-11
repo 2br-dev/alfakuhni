@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-12-01 12:05:49
+/* Smarty version 3.1.32, created on 2018-12-10 12:03:44
   from '/home/b/burdilo/kuhnialfa/public_html/protected/app/core/admin-template/fields/int.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5c024eed0792c8_67473805',
+  'unifunc' => 'content_5c0e2bf048f4e9_69711608',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5c024eed0792c8_67473805 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5c0e2bf048f4e9_69711608 (Smarty_Internal_Template $_smarty_tpl) {
 ?><input name="<?php echo $_smarty_tpl->tpl_vars['name']->value;?>
 " value="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['value']->value, ENT_QUOTES, 'UTF-8', true);?>
 " class="integer <?php echo $_smarty_tpl->tpl_vars['class_name']->value;?>

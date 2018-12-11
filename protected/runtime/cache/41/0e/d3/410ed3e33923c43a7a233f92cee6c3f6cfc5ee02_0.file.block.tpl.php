@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.32, created on 2018-12-05 13:51:56
+/* Smarty version 3.1.32, created on 2018-12-11 15:25:53
   from '/home/b/burdilo/kuhnialfa/public_html/protected/modules/gallery/tpl/block.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.32',
-  'unifunc' => 'content_5c07adccb7c739_38271026',
+  'unifunc' => 'content_5c0facd108ee40_42636486',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '410ed3e33923c43a7a233f92cee6c3f6cfc5ee02' => 
     array (
       0 => '/home/b/burdilo/kuhnialfa/public_html/protected/modules/gallery/tpl/block.tpl',
-      1 => 1542193811,
+      1 => 1544531112,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5c07adccb7c739_38271026 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5c0facd108ee40_42636486 (Smarty_Internal_Template $_smarty_tpl) {
 if ($_smarty_tpl->tpl_vars['gallery']->value) {?><h2 class="topic">Галерея</h2><div class="gallery-slider"><?php
 $_from = $_smarty_tpl->smarty->ext->_foreach->init($_smarty_tpl, $_smarty_tpl->tpl_vars['gallery']->value, 'sort');
 if ($_from !== null) {
@@ -46,6 +46,6 @@ if ($_smarty_tpl->tpl_vars['sort']->value['price']) {?><div class="gallery-price
 </p><?php }?></div></div></div></div><?php
 }
 }
-$_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?></div><div class="container"><div class="link-btn gallery-btn"><a href="/realizovannye-proekty"> Посмотреть реализованные проекты </a></div></div><?php }
+$_smarty_tpl->smarty->ext->_foreach->restore($_smarty_tpl, 1);?></div><div class="container"><div class="link-btn gallery-btn wow zoomInUp" data-wow-delay='.5s'><a href="/realizovannye-proekty"> Посмотреть реализованные проекты </a></div></div><?php }
 }
 }
